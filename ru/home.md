@@ -2,15 +2,14 @@
 title: Оферта
 description: Методологический город
 published: true
-date: 2025-01-07T19:43:50.533Z
+date: 2025-01-07T19:44:14.918Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-06T20:01:42.181Z
 ---
 
 # ⛔ ЧЕРНОВИК ПУБЛИЧНОЙ ОФЕРТЫ ⛔
-о присоединении к Проекту «[methodology.city](https://methodology.city)»  
-(с системой управления на основе ликвидного вклада, учитываемого на блокчейне [Stellar](https://stellar.org/))
+о присоединении к Проекту «[methodology.city](https://methodology.city)»
 
 **Дата размещения оферты:** «___» __________ 20__ г.  
 **Место размещения оферты: wiki.methodology.city
