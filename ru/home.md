@@ -2,7 +2,7 @@
 title: Оферта
 description: Методологический город
 published: true
-date: 2025-01-07T20:37:39.147Z
+date: 2025-01-07T21:01:33.683Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-06T20:01:42.181Z
@@ -22,7 +22,8 @@ dateCreated: 2025-01-06T20:01:42.181Z
 «[methodology.city](https://methodology.city)» (далее – «Проект»).
 
 ### 1.2. **Форма**
-Ликвидное децентрализованное сетевое общество. 
+- Ликвидное децентрализованное сетевое общество на блокчейне Stellar.
+- Адрес общества [GDJSY7FCYCIPF5VRFV3H7QLLWH4F2MFQXSXNZQKH35J57AFKI4276QDF](https://stellar.expert/explorer/public/account/GDJSY7FCYCIPF5VRFV3H7QLLWH4F2MFQXSXNZQKH35J57AFKI4276QDF).
 
 ### 1.3. **Территория реализации**
 Черногория.
