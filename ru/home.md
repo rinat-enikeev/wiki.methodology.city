@@ -2,7 +2,7 @@
 title: Домашняя страница
 description: Методологический город
 published: true
-date: 2025-01-07T19:10:31.534Z
+date: 2025-01-07T19:10:33.791Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-06T20:01:42.181Z
