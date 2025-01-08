@@ -1,8 +1,8 @@
 ---
-title: Оферта
-description: Методологический город
+title: Черновик оферты
+description: methodology.city
 published: true
-date: 2025-01-07T21:50:45.076Z
+date: 2025-01-08T17:55:38.370Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-06T20:01:42.181Z
