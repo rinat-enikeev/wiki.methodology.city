@@ -1,8 +1,8 @@
 ---
 title: Черновик концепции
 description: methodology.city
-published: false
-date: 2025-01-09T17:27:57.140Z
+published: true
+date: 2025-01-09T18:41:41.741Z
 tags: concept
 editor: markdown
 dateCreated: 2025-01-09T17:27:57.140Z
