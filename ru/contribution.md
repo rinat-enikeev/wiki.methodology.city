@@ -1,8 +1,8 @@
 ---
 title: Схема участия
 description: methodology.city
-published: false
-date: 2025-01-10T21:32:05.036Z
+published: true
+date: 2025-01-10T21:32:14.113Z
 tags: схема
 editor: markdown
 dateCreated: 2025-01-10T19:57:08.272Z
