@@ -2,8 +2,8 @@
 title: Миссия
 description: methodology.city
 published: true
-date: 2025-01-10T18:02:38.302Z
-tags: mission,noble,cause
+date: 2025-01-10T18:05:51.716Z
+tags: миссия
 editor: markdown
 dateCreated: 2025-01-10T17:29:53.161Z
 ---
