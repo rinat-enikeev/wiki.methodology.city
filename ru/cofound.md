@@ -1,8 +1,8 @@
 ---
 title: Процесс соучреждения
 description: учреждение
-published: false
-date: 2025-01-11T07:01:35.087Z
+published: true
+date: 2025-01-11T07:01:41.659Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T06:42:39.310Z
