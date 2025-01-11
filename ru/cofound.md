@@ -1,9 +1,9 @@
 ---
 title: Процесс соучреждения
-description: учреждение
+description: methodology.city
 published: true
-date: 2025-01-11T07:01:41.659Z
-tags: 
+date: 2025-01-11T07:02:37.925Z
+tags: учреждение
 editor: markdown
 dateCreated: 2025-01-11T06:42:39.310Z
 ---
