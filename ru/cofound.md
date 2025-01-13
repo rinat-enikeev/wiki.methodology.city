@@ -2,7 +2,7 @@
 title: Процесс соучреждения
 description: methodology.city
 published: true
-date: 2025-01-13T17:46:11.412Z
+date: 2025-01-13T17:47:52.146Z
 tags: учреждение
 editor: markdown
 dateCreated: 2025-01-11T06:42:39.310Z
@@ -79,7 +79,7 @@ dateCreated: 2025-01-11T06:42:39.310Z
 >    - Максимальное количество соучредителей - 7
 >
 > 2. При наличии большего количества заявок:
->    - Предпочтение отдается тем, у кого больше токенов LV, если равно, то чей аккаунт первым входит в мультиподпись основного аккаунта общества [GDJSY7FCYCIPF5VRFV3H7QLLWH4F2MFQXSXNZQKH35J57AFKI4276QDF](https://stellar.expert/explorer/public/account/GDJSY7FCYCIPF5VRFV3H7QLLWH4F2MFQXSXNZQKH35J57AFKI4276QDF) (для занятия места подписанта нужно набрать больше LV чем у 7го по счвету соучредителя). 
+>    - Предпочтение отдается тем, у кого больше токенов LV, если равно, то чей аккаунт первым входит в мультиподпись основного аккаунта общества [GDJSY7FCYCIPF5VRFV3H7QLLWH4F2MFQXSXNZQKH35J57AFKI4276QDF](https://stellar.expert/explorer/public/account/GDJSY7FCYCIPF5VRFV3H7QLLWH4F2MFQXSXNZQKH35J57AFKI4276QDF) (для занятия места подписанта нужно набрать больше LV чем у 7го по счету соучредителя). 
 >
 > 3. Остальные условия:
 >    - Аналогичны условиям из этапа "Три соучредителя"
