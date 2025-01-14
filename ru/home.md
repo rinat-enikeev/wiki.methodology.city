@@ -2,7 +2,7 @@
 title: Черновик оферты
 description: methodology.city
 published: true
-date: 2025-01-14T19:29:00.097Z
+date: 2025-01-14T19:29:16.875Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-06T20:01:42.181Z
